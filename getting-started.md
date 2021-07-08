@@ -2,13 +2,13 @@
 
 ## How The Tutorial Works
 
-The tutorial is divided into a number of steps. Each step introduces new concepts, and sample code is displayed to demonstrate those concepts. 
+The tutorial is divided into a number of lessons. Each lesson introduces new concepts, and sample code is displayed to demonstrate those concepts. 
 
 Don't copy and paste the code - try to follow along by typing out each line. You will start building coding "muscle memory" this way.
 
-At the end of each step the tutorial will test your knowledge, with questions or challenges for you to complete yourself. Make sure that you understand what the question or the challenge is looking for.
+At the end of each lesson the tutorial will test your knowledge, with questions or challenges for you to complete yourself. Make sure that you understand what the question or the challenge is looking for.
 
-If you get stuck, try going through the step from the beginning. Don't be afraid to go slowly - you might have missed something small.  Computers are very meticulous, so you need to make sure that your code is precise and follows the exact structure it expects.
+If you get stuck, try going through the lesson again. Don't be afraid to go slowly - you might have missed something small.  C\# can be very strict, so you need to make sure that your code is precise and follows the exact structure it expects.
 
 ## Set Up Your Workspace
 

@@ -1,6 +1,8 @@
 # Lesson 1: Hello, World!
 
-Let's make our program print a message. We're going to print out "Hello, World!" to the console. A console \(also known as terminal\) is a text-only display or environment that enables us to interact with the computer.
+Let's make our program print a message. We're going to print out "Hello, World!" to the console. 
+
+A console \(also known as terminal\) is a text-only display or environment that enables us to interact with the computer.
 
 {% hint style="info" %}
 **Did you know?**
