@@ -6,4 +6,5 @@
   * [Lesson 1: Hello, World!](tutorial/lesson-1-hello-world.md)
   * [Lesson 2: Comments](tutorial/lesson-2-comments.md)
   * [Lesson 3: Data Types](tutorial/lesson-3-data-types.md)
+  * [Lesson 4: Operators](tutorial/lesson-4-operators.md)
 
