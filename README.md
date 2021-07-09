@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi there! This is an introduction to the C\# programming language. 
+Hi there! This tutorial is a gentle introduction to the C\# programming language. 
 
 You'll be learning the basics of C\# and programming by following along with the tutorial.
 

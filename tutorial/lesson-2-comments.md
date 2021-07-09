@@ -1,5 +1,12 @@
 # Lesson 2: Comments
 
+{% hint style="warning" %}
+At the end of this lesson, you should be able to answer the following:
+
+* What are comments? Why should I use them?
+* How do I write comments in C\#?
+{% endhint %}
+
 Programs are written for computers, but sometimes we need to add more context to help other programmers read and understand our code. \(Sometimes that programmer is ourselves!\)
 
 To do this, we can write comments in our program. Comments are lines of text that are ignored by C\# when the program is run.

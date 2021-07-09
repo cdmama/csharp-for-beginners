@@ -1,5 +1,12 @@
 # Lesson 1: Hello, World!
 
+{% hint style="warning" %}
+At the end of this lesson, you should be able to answer the following:
+
+* What is a statement?
+* How can I display a message on the screen using C\#?
+{% endhint %}
+
 Let's make our program print a message. We're going to print out "Hello, World!" to the console. 
 
 A console \(also known as terminal\) is a text-only display or environment that enables us to interact with the computer.
@@ -22,7 +29,7 @@ In the code box on your notebook, type the following:
 Console.WriteLine("Hello, World!");
 ```
 
-This line is called a _statement_. C\# programs are made up of statements. 
+This line of instruction is called a _statement_. C\# programs are made up of statements. 
 
 Statements end with a semicolon \(`;`\). Think of a statement like a sentence - the semicolon is equivalent to the full stop or period. If there were no full stops, the reader \(in our case, the C\# compiler\) will have trouble understanding us, since it doesn't know where our sentences begin and end.
 
@@ -56,6 +63,8 @@ Run the program again by clicking the Execute button.
 Your output should look like this:
 
 ![](../.gitbook/assets/2021-07-07_20-09-53.png)
+
+As you may have noticed, statements run **in sequence**. If you placed `I'm learning C#!` before the `Hello World!` statement, the output would be different.
 
 {% hint style="success" %}
 **Tip**

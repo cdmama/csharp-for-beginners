@@ -1,12 +1,19 @@
 # Lesson 3: Data Types
 
+{% hint style="warning" %}
+At the end of this lesson, you should be able to answer the following:
+
+* What is a data type?
+* What are some of the commonly used data types in C\#?
+{% endhint %}
+
 C\# is a very meticulous language. Every piece of data it encounters must have a _type._
 
 The type of the data determines the set of values that it can have, and also which _operations_ can be performed with it. Depending on the syntax, C\# can sometimes infer the type of the data.
 
 Remember our [Hello, World program](lesson-1-hello-world.md) earlier? We needed to enclose the text `Hello, World!` in double quotes \(`""`\) for it to be a valid value. Enclosing the text in double quotes made that entire piece of data be of the **string** type.
 
-C\# has many built-in data types. Some types have a special keyword in C\#. 
+C\# has many built-in data types. Some types have a special keyword in C\#.  We'll learn where these keywords are used later.
 
 Here is a subset of the basic types you will likely encounter:
 

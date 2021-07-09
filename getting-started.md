@@ -4,11 +4,13 @@
 
 The tutorial is divided into a number of lessons. Each lesson introduces new concepts, and sample code is displayed to demonstrate those concepts. 
 
-Don't copy and paste the code - try to follow along by typing out each line. You will start building coding "muscle memory" this way.
+If possible, try not to copy and paste the code. Instead, do your best to follow along by typing out each line. You will start building coding "muscle memory" this way.
 
-At the end of each lesson the tutorial will test your knowledge, with questions or challenges for you to complete yourself. Make sure that you understand what the question or the challenge is looking for.
+At the end of each lesson the tutorial will test your knowledge, with questions or challenges for you to complete yourself. Make sure that before you tackle them, you fully understand what the question or the challenge is looking for. 
 
-If you get stuck, try going through the lesson again. Don't be afraid to go slowly - you might have missed something small.  C\# can be very strict, so you need to make sure that your code is precise and follows the exact structure it expects.
+Sometimes beginner programmers get stuck because they have gone through the material too fast, and accidentally formed an incorrect assumption because of a small error. 
+
+If you find yourself unable to solve a challenge, try going through the lesson again. Don't be afraid to go slowly - you might have missed something small.  C\# can be very strict, so you need to ensure that your code is precise and follows the exact structure expected.
 
 ## Set Up Your Workspace
 
