@@ -135,7 +135,7 @@ Console.WriteLine(colour);
 True or False: 
 
 1. You can assign a value of any type to a variable after it's been declared.
-2. When you declare a variable, you can not assign a value to it in the same statement.
+2. When you declare a variable, you **cannot** assign a value to it in the same statement.
 3. You can assign an expression to a variable.
 {% endhint %}
 
