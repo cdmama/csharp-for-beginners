@@ -112,7 +112,9 @@ var myVariable; // This will cause an error - C# doesn't know what type it is!
 ```
 
 {% hint style="danger" %}
-Why use the `var` keyword at all? Some types in C\# can get really long, like `Dictionary<string, string>` and using `var` instead of the type name will make our declarations more concise. Read more about the `var` keyword [here](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/var).
+Why use the `var` keyword at all? 
+
+Some types in C\# can get really long, like `Dictionary<string, string>` and using `var` instead of the type name will make our declarations more concise. Read more about the `var` keyword [here](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/var).
 {% endhint %}
 
 {% hint style="info" %}
