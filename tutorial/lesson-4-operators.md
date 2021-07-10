@@ -22,6 +22,8 @@ The whole line above is called an _expression_. Expressions can be evaluated fur
 
 Type the line into your code box and run the program. You'll see that C\# evaluates the expression and displays the result.
 
+![](../.gitbook/assets/2021-07-10_21-52-15.png)
+
 {% hint style="danger" %}
 Why did it display the result even if we didn't call `Console.WriteLine()`? 
 
@@ -57,6 +59,8 @@ If you try to write all of them at the same time and run the program, you'll get
 
 Even if we put semicolons at the end of each line, the program will still be invalid!
 
+![](../.gitbook/assets/2021-07-10_21-53-19.png)
+
 That's because expressions are not valid statements. As we learned in [Lesson 1](lesson-1-hello-world.md), C\# programs are made of statements. Expressions in C\# programs must be used as part of a valid statement.
 
 What's a statement we've already learned? Why, the **print** statement of course!
@@ -71,6 +75,8 @@ Console.WriteLine(10 / 2);
 ```
 
 The result of each expression is now displayed.
+
+![](../.gitbook/assets/2021-07-10_21-54-32.png)
 
 Here are other common operators in C\#.
 
@@ -100,7 +106,7 @@ These operators perform [Boolean logic operations](https://en.wikipedia.org/wiki
 {% hint style="info" %}
 **Question**
 
-Is the following code an expression?
+Is the following an expression? Why or why not?
 
 ```csharp
 "100 + 25"

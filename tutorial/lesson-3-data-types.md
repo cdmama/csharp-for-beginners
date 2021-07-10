@@ -19,9 +19,9 @@ Here is a subset of the basic types you will likely encounter:
 
 ### String
 
-The string type can contain text values. The text can have letters, numbers, symbols, and special characters like tab or newline.
+The string type can contain text values. The text can have letters, numbers, and symbols.
 
-The length of the string can range from a single character, a phrase, a whole paragraph, or even empty. They need to be enclosed in double quotes.
+The length of the string can range from a single character to a whole paragraph - it can even be empty. They need to be enclosed in double quotes.
 
 C\# keyword:  `string`
 
@@ -51,7 +51,7 @@ true
 
 ### Character
 
-The character type can contain a single character. Characters can be letters, numbers, symbols, or special characters. They need to be enclosed in single quotes \(`''`\).
+The character type can contain a single character. Characters can be letters, numbers, and symbols. They need to be enclosed in single quotes \(`''`\).
 
 C\# keyword: `char`
 
@@ -92,7 +92,7 @@ Console.WriteLine(3.1416);
 
 Run the program - you should see the values in the console output.
 
-![](../.gitbook/assets/2021-07-09_0-58-13.png)
+![](../.gitbook/assets/2021-07-10_21-50-40.png)
 
 {% hint style="info" %}
 **Question**
