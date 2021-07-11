@@ -4,8 +4,8 @@
 At the end of this lesson, you should be able to answer the following:
 
 * What is a variable?
-* How can I declare a variable in C\#?
-* How can I assign a value to a variable in C\#?
+* How do I declare a variable in C\#?
+* How do I assign a value to a variable in C\#?
 {% endhint %}
 
 When C\# evaluates an expression and returns a new value, it would be nice if the value could be stored somewhere, so we could use it later in the program. Otherwise, we'd need to keep typing the same expression to get the value.

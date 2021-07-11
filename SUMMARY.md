@@ -8,4 +8,5 @@
   * [Lesson 3: Data Types](tutorial/lesson-3-data-types.md)
   * [Lesson 4: Operators](tutorial/lesson-4-operators.md)
   * [Lesson 5: Variables](tutorial/lesson-5-variables.md)
+  * [Lesson 6: Strings](tutorial/lesson-6-strings.md)
 

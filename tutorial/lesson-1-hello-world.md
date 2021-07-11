@@ -4,7 +4,7 @@
 At the end of this lesson, you should be able to answer the following:
 
 * What is a statement?
-* How can I display a message on the screen using C\#?
+* How do I display a message on the screen using C\#?
 {% endhint %}
 
 Let's make our program print a message. We're going to print out "Hello, World!" to the console. 
