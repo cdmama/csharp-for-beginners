@@ -31,7 +31,9 @@ Console.WriteLine("Hello, World!");
 
 This line of instruction is called a _statement_. C\# programs are made up of statements. 
 
-Statements end with a semicolon \(`;`\). Think of a statement like a sentence - the semicolon is equivalent to the full stop or period. If there were no full stops, the reader \(in our case, the C\# compiler\) will have trouble understanding us, since it doesn't know where our sentences begin and end.
+Statements end with a semicolon \(`;`\). Think of a statement like a sentence - the semicolon is equivalent to the full stop or period. 
+
+If there were no full stops, the reader \(in our case, the C\# compiler\) will have trouble understanding us, since it doesn't know where our sentences begin and end.
 
 Next, run the program by clicking on the Execute button on the code box.
 
