@@ -9,4 +9,5 @@
   * [Lesson 4: Operators](tutorial/lesson-4-operators.md)
   * [Lesson 5: Variables](tutorial/lesson-5-variables.md)
   * [Lesson 6: Strings](tutorial/lesson-6-strings.md)
+  * [Lesson 7: Conditionals](tutorial/lesson-7-conditionals.md)
 

@@ -34,5 +34,13 @@ Lastly, C\# is a popular language, especially in the enterprise sector. Learning
 
 ## Credits
 
-This tutorial was heavily inspired by the [Beginners JavaScript](https://node-girls.gitbook.io/beginners-javascript/tutorial/step-1-hello-world) tutorial from [NodeGirls](https://www.nodegirls.com/).
+A big thank you to [NodeGirls](https://www.nodegirls.com/)! This tutorial was heavily inspired by their [Beginners JavaScript](https://node-girls.gitbook.io/beginners-javascript/tutorial/step-1-hello-world) tutorial.
+
+## About Me
+
+Hi, I'm Coding Mama! I'm a Senior Software Engineer who loves to work with C\#, so I've made it a personal goal to introduce C\# to as many people as possible.
+
+Whether you're an absolute beginner to programming, or a developer who wants to learn C\#, I'm here to help!
+
+I hope you find my tutorials useful! If you do, please drop me a note on [Twitter](https://twitter.com/coding_mama) or [Dev.to](https://dev.to/coding_mama) - I'd love to hear from you!
 

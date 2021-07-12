@@ -12,5 +12,9 @@ Here's what we'll cover in this tutorial:
 
 {% page-ref page="lesson-5-variables.md" %}
 
+{% page-ref page="lesson-6-strings.md" %}
+
+{% page-ref page="lesson-7-conditionals.md" %}
+
 
 
