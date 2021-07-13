@@ -60,6 +60,6 @@ Console.WriteLine("Tyrannosaurus Rex");
 {% hint style="info" %}
 **Challenge**
 
-Add some comments to your answers to the Step 1 challenges!
+Add some comments to your answers to the Lesson 1 challenges!
 {% endhint %}
 
