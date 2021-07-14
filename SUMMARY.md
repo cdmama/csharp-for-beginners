@@ -10,4 +10,5 @@
   * [Lesson 5: Variables](tutorial/lesson-5-variables.md)
   * [Lesson 6: Strings](tutorial/lesson-6-strings.md)
   * [Lesson 7: Conditionals](tutorial/lesson-7-conditionals.md)
+  * [Lesson 8: Loops](tutorial/lesson-8-loops.md)
 
