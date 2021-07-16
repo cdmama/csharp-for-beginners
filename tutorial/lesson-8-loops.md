@@ -115,7 +115,7 @@ var i = 10;
 while (i > 0) 
 {
     Console.WriteLine(i);
-    counter--;
+    i--;
 }
 Console.WriteLine("Blast off!");
 ```
