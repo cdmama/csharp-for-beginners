@@ -16,9 +16,9 @@ For example, we can add two integers:
 10 + 2
 ```
 
-The `+` symbol between the two numbers is an _operator_. It represents the regular ol' addition operator that is used in maths.
+The `+` symbol between the two numbers is an _operator_. It represents an action or operation that can be done to the values supplied with it. The `+` operator here is the same used in arithmetic addition.
 
-The whole line above is called an _expression_. Expressions can be evaluated further by C\# to produce a new value.
+The whole line above is called an _expression_. An expression can be evaluated further by C\# to produce a new value.
 
 Type the line into your code box and run the program. You'll see that C\# evaluates the expression and displays the result.
 
@@ -78,7 +78,19 @@ The result of each expression is now displayed.
 
 ![](../.gitbook/assets/2021-07-10_21-54-32.png)
 
-Here are other common operators in C\#.
+Here are the common operators in C\#.
+
+### Arithmetic Operators
+
+These operators work with numeric values.
+
+| Operator | Description | Example |
+| :--- | :--- | :--- |
+| `+` | Addition | `17 + 18` |
+| `-` | Subtraction | `50 - 21` |
+| `*` | Multiplication | `12 * 4` |
+| `/` | Division | `60 / 15` |
+| `%` | Remainder \(modulo\) | `20 % 3` |
 
 ### Comparison Operators
 
@@ -122,6 +134,6 @@ True or False: An expression by itself is a valid statement.
 {% hint style="info" %}
 **Challenge**
 
-Just like what you did for the arithmetic operators, wrap each example in the tables above into a `Console.WriteLine()` statement. Can you guess what each result will be?
+Wrap each example in the tables above into a `Console.WriteLine()` statement. Can you guess what each result will be?
 {% endhint %}
 
