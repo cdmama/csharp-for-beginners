@@ -11,4 +11,5 @@
   * [Lesson 6: Strings](tutorial/lesson-6-strings.md)
   * [Lesson 7: Conditionals](tutorial/lesson-7-conditionals.md)
   * [Lesson 8: Loops](tutorial/lesson-8-loops.md)
+  * [Lesson 9: Arrays](tutorial/lesson-9-arrays.md)
 
