@@ -3,7 +3,7 @@
 {% hint style="warning" %}
 At the end of this lesson, you should be able to answer the following:
 
-* What is an if statement?
+* How do I write a conditional statement in C\#?
 * What is an else clause?
 {% endhint %}
 
