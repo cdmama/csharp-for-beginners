@@ -87,7 +87,7 @@ These operators work with numeric values.
 | Operator | Description | Example |
 | :--- | :--- | :--- |
 | `+` | Addition | `17 + 18` |
-| `-` | Subtraction | `50 - 21` |
+| `-` | Subtraction | `65 - 21` |
 | `*` | Multiplication | `12 * 4` |
 | `/` | Division | `60 / 15` |
 | `%` | Remainder \(modulo\) | `20 % 3` |
