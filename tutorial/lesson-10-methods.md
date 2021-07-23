@@ -15,7 +15,7 @@ As our programs get bigger and more complex, we can organise our code into more 
 
 ### Method declaration and invocation
 
-Let's go back to our very first program, Hello World. Instead of just printing the message, perhaps we want to make it fancier by adding an ASCII art border.
+Let's go back to our very first program, Hello World. Instead of just printing the message, perhaps we want to make it fancier by adding an [ASCII art border](https://www.asciiart.eu/art-and-design/patterns).
 
 Below we've used a [for loop](lesson-8-loops.md#for-loop) to make a string that repeats `+-` 20 times. We then use this string as our border.
 
