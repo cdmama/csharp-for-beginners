@@ -12,4 +12,5 @@
   * [Lesson 7: Conditionals](tutorial/lesson-7-conditionals.md)
   * [Lesson 8: Loops](tutorial/lesson-8-loops.md)
   * [Lesson 9: Arrays](tutorial/lesson-9-arrays.md)
+  * [Lesson 10: Methods](tutorial/lesson-10-methods.md)
 

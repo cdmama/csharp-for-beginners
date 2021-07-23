@@ -20,5 +20,7 @@ Here's what we'll cover in this tutorial:
 
 {% page-ref page="lesson-9-arrays.md" %}
 
+{% page-ref page="lesson-10-methods.md" %}
+
 
 

@@ -9,7 +9,7 @@ At the end of this lesson, you should be able to answer the following:
 * What is a verbatim string?
 {% endhint %}
 
-Let's play with strings!
+Let's have fun with strings!
 
 ### String Length
 
