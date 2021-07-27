@@ -24,7 +24,7 @@ var someString = "abcdef";
 Console.WriteLine(someString.Length);
 ```
 
-![](../.gitbook/assets/2021-07-11_21-01-51%20%281%29.png)
+![](../.gitbook/assets/2021-07-27_18-19-30.png)
 
 ### String Concatenation
 
