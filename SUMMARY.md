@@ -15,5 +15,6 @@
   * [Lesson 10: Methods](tutorial/lesson-10-methods.md)
 * [Next Steps](next-steps.md)
 * [Bonus Lessons](bonus-lessons/README.md)
-  * [Lesson 3.5: Type Conversion](bonus-lessons/lesson-3.5-type-conversion.md)
+  * [Ternary Operator](bonus-lessons/ternary-operator.md)
+  * [Type Conversion](bonus-lessons/type-conversion.md)
 
